@@ -36,12 +36,18 @@ I believe that my diverse experiences in construction bring unique perspectives 
 Vamos trabalhar juntos ou apenas trocar ideias? Você pode me encontrar em:
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/fabiollapatriota/">
+  <a href="https://www.linkedin.com/in/fabiollapatriota/">
     <img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge" />
   </a>
+  
+  <a href="fabiollapatriota2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
   <a href="https://www.linkedin.com/in/fabiollapatriota/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="https://www.instagram.com/fabiollapatriota/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
